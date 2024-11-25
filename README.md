@@ -1,5 +1,5 @@
 # Integrating Brain-Inspired Constrraints in Neural Network Models Report
-## `Leaky_RNN_ContextDecisionMaking.ipynb`
+## `Leaky_RNN_ContextDecisionMaking.ipynb` File
 This file contains the Standard Leaky RNN completing the Context Decision Making Task.
 ## `Leaky_RNN_DelayMatchSampleDistractor1D.ipynb`
 This file contains the Standard Leaky RNN completing the Delay Match Sample Distractor Task.
